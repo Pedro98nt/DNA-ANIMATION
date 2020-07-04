@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: #303853;
+  }
+  
+  body {
+    overflow: hidden;
+  }
+  
+  .left {
+    fill: #d10065;
+  }
+  
+  .right {
+    fill: #f45f5f;
+  }
